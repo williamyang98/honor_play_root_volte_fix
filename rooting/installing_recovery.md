@@ -23,10 +23,12 @@ The ```recovery_ramdisk_magisk.img``` image is the patched output from the follo
 4. Reboot your phone into your system: ```./fastboot.exe reboot```.
 
 ## 3. Boot into the patched Magisk recovery
+![Successful magisk](/assets/images/magisk_success.jpg)
 1. Wait for phone to boot back into system.
 2. Reboot your phone into patched rooted Magisk recovery using: ```./adb.exe reboot recovery```.
-3. Wait for phone to reboot. It should look like a regular power on into your login/swipe screen.
-4. Unlock phone and check if Magisk has root permissions.
+3. Wait for phone to reboot. It will preset a warning about using an unlocked bootloader.
+4. It should look like a regular power on into your login/swipe screen.
+5. Unlock phone and check if Magisk has root permissions.
   - If it is rooted then the ```superuser``` and ```modules``` buttons on the bottom navigation bar will not be grayed out.
   - Press on those buttons and they should work and take you to their respective pages.
 

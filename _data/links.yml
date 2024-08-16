@@ -34,3 +34,10 @@ build_props:
 adaway:
   homepage: "https://github.com/AdAway/AdAway"
   link: "https://github.com/AdAway/AdAway/releases/download/v6.1.3/AdAway-6.1.3-20240706.apk"
+firmware_file:
+  link: "https://firmwarefile.com/category/huawei"
+pixel_volte_patch:
+  homepage: "https://github.com/kyujin-cho/pixel-volte-patch"
+  link: "https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md"
+shizuku:
+  link: "https://shizuku.rikka.app/"

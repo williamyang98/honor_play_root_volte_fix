@@ -8,5 +8,8 @@ exclude:
   - .scripts/
   - .gems/
 
-aux_links:
-  Github: https://github.com/williamyang98/honor_play_root_volte_fix
+nav_external_links:
+  - title: Github
+    url: https://github.com/williamyang98/honor_play_root_volte_fix
+  - title: XDA discussion
+    url: https://xdaforums.com/t/honor-play-volte-fix-with-paid-bootloader-unlock.4687230

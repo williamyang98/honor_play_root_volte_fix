@@ -4,6 +4,8 @@
 
 Jekyll project for our Honor Play Volte fix guide.
 
+[Github page here](https://williamyang98.github.io/honor_play_root_volte_fix/)
+
 ## Gallery
 ![About](/assets/images/volte_about.jpg)
 

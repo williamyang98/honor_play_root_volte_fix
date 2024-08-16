@@ -13,19 +13,19 @@ The above steps are based on the [provided tutorial]({{ site.data.links.hcu_unlo
 
 ## 1. Download HCU Unlocker
 - Downloaded from [HCU Client]({{ site.data.links.hcu_unlocker.download }})
-- [Link (Backup)](/assets/files/hcu_unlocker_0382.zip)
+- [Link (Backup)]({{ "/assets/files/hcu_unlocker_0382.zip" | relative_url }})
 
 ## 2. Purchase a 72 hour license
-![Payment screen](/assets/images/hcu_unlocker_payment.png)
+![Payment screen]({{ "/assets/images/hcu_unlocker_payment.png" | relative_url }})
 1. Purchase a ```DC-Phoenix + HCU timed license``` for ```€19.00``` [here]({{ site.data.links.dc_unlocker.purchase }}).
 2. You will get a username and password pair which you can then use to login to the ```HCU unlocker```.
 
 ## 3. Login to HCU unlocker
-![Login screen](/assets/images/hcu_unlocker_login.png)
+![Login screen]({{ "/assets/images/hcu_unlocker_login.png" | relative_url }})
 1. Login with your username and password pair. **Once you start you will only have 72 hours to get read your code so make absolutely sure that you are prepared to go through with this**.
 
 ## 4. Select CPU loader
-![CPU loader](/assets/images/hcu_unlocker_loader.png)
+![CPU loader]({{ "/assets/images/hcu_unlocker_loader.png" | relative_url }})
 1. (Optional) Check in device manager if ```Huawei USB COM 1.0``` is present before starting. If it isn't activate your phone in testpoint mode again. You may need to do this multiple times.
 2. Select ```Fastboot/Xloader (Hisilicon only)``` while your Honor Play is in testpoint mode 
   - ```Manufacture mode - COM ports``` doesn't work for the Honor play since it uses the Kirin 970 and is using hardware testpoint mode.

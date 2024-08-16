@@ -17,13 +17,13 @@ This will expose a serial interface via USB which these tools can use to upload 
 2. Unscrew the two security screws at the bottom of the Honor Play which holds the backcover on.
 3. Use your fingernails or a very thin plastic prying tool to pry the backcover off. **Be careful** while you are doing this so you do not accidentally rip off the fingerprint sensor cable or puncture the battery.
 
-![image](/assets/images/honor_play_screws.jpg)
+![image]({{ "/assets/images/honor_play_screws.jpg" | relative_url }})
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nZR5fKYuEgo?si=pQdmRj6qQ5kE4ky3&amp;start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 3. Grounding testpoint
-![image](/assets/images/honor_play_testpoint.jpg)
-![image](/assets/images/honor_play_testpoint_zoom.jpg)
+![image]({{ "/assets/images/honor_play_testpoint.jpg" | relative_url }})
+![image]({{ "/assets/images/honor_play_testpoint_zoom.jpg" | relative_url }})
 1. Identify location of correct testpoint from image.
 2. Identify the location of ground (0 volts) where you can short the testpoint. The easiest location to use is the radio frequency shielding identified in the above image.
 3. (Optional) Cover the surrounding testpoints with plastic tape to avoid shorting them by accident.
@@ -37,12 +37,12 @@ This will expose a serial interface via USB which these tools can use to upload 
 
 ## 5. Installing Huawei testpoint driver
 ### Before driver
-![image](/assets/images/huawei_testpoint_before_driver.png)
+![image]({{ "/assets/images/huawei_testpoint_before_driver.png" | relative_url }})
 ### After driver
-![image](/assets/images/huawei_testpoint_after_driver.png)
+![image]({{ "/assets/images/huawei_testpoint_after_driver.png" | relative_url }})
 1. Install the Huawei testpoint driver on Windows.
     - Driver was downloaded from [DC Unlocker homepage]({{ site.data.links.dc_unlocker.homepage }}) following the HCU unlocker tutorial.
-    - [Link (Backup of Driver 1)](/assets/files/huawei_testpoint_driver.zip)
+    - [Link (Backup of Driver 1)]({{ "/assets/files/huawei_testpoint_driver.zip" | relative_url }})
         {% for link in site.data.links.huawei_testpoint_drivers %}
         - [Driver {{ forloop.index }}]({{ link }})
         {% endfor %}

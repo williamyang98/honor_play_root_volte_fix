@@ -7,12 +7,12 @@ nav_order: 3
 # Enabling VoLTE
 
 ## 1. Install the MagiskHidePropsConf module
-![Magisk modules](/assets/images/magisk_modules.jpg)
+![Magisk modules]({{ "/assets/images/magisk_modules.jpg" | relative_url }})
 
 Since our ```/system``` folder is an erofs (enhanced read only file system), we cannot actually modify the ```build.props``` file to update our VoLTE settings. Instead we use this module which will substitute it with an modifiable proxy.
 
 1. Download [MagiskHidePropsConf]({{ site.data.links.magisk_hide_props_conf.homepage }}) module as a zip file
-  - [Link (Backup)](/assets/files/MagiskHidePropsConf-v6.1.2.zip)
+  - [Link (Backup)]({{ "/assets/files/MagiskHidePropsConf-v6.1.2.zip" | relative_url }})
   - [Link (Github)]({{ site.data.links.magisk_hide_props_conf.download }})
 2. Open Magisk and click on the ```Modules``` section.
 3. Click on ```Install from storage```.
@@ -56,8 +56,8 @@ Taken from the following links:
 {% endfor %}
 
 ## 3. Enable VoLTE
-![Mobile settings](/assets/images/volte_network_settings.jpg)
-![Mobile settings](/assets/images/volte_dialer.jpg)
+![Mobile settings]({{ "/assets/images/volte_network_settings.jpg" | relative_url }})
+![Mobile settings]({{ "/assets/images/volte_dialer.jpg" | relative_url }})
 1. Open ```Settings > Wirless & Networks > Mobile networks```.
 2. Toggle the VoLTE option.
 3. Perform a test call to confirm that VoLTE is working.

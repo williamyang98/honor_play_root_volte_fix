@@ -7,8 +7,8 @@ nav_order: 1
 
 # Installing recovery
 I will be providing the original and patched ```recovery_ramdisk.img``` image.
-- [recovery_ramdisk.img](/assets/files/recovery_ramdisk.img)
-- [recovery_ramdisk_magisk.img](/assets/files/recovery_ramdisk_magisk.img)
+- [recovery_ramdisk.img]({{ "/assets/files/recovery_ramdisk.img" | relative_url }})
+- [recovery_ramdisk_magisk.img]({{ "/assets/files/recovery_ramdisk_magisk.img" | relative_url }})
 
 The ```recovery_ramdisk_magisk.img``` image is the patched output from the following steps.
 
@@ -23,7 +23,7 @@ The ```recovery_ramdisk_magisk.img``` image is the patched output from the follo
 4. Reboot your phone into your system: ```./fastboot.exe reboot```.
 
 ## 3. Boot into the patched Magisk recovery
-![Successful magisk](/assets/images/magisk_success.jpg)
+![Successful magisk]({{ "/assets/images/magisk_success.jpg" | relative_url }})
 1. Wait for phone to boot back into system.
 2. Reboot your phone into patched rooted Magisk recovery using: ```./adb.exe reboot recovery```.
 3. Wait for phone to reboot. It will preset a warning about using an unlocked bootloader.

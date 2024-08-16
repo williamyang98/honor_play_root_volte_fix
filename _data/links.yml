@@ -1,0 +1,36 @@
+potato_nv:
+  homepage: "https://github.com/mashed-potatoes/PotatoNV"
+hcu_unlocker:
+  homepage: "https://hcu-client.com/"
+  download: "https://hcu-client.com/download/"
+  tutorial_read: "https://hcu-client.com/huawei-bootloader-code-read-via-testpoint/"
+dc_unlocker:
+  homepage: "https://www.dc-unlocker.com/dcphoenix-enable-software-tp"
+  purchase: "https://www.dc-unlocker.com/buy"
+huawei_testpoint_drivers:
+  - "https://files.dc-unlocker.com/share.html?v=share/984CE114852148B5B9A9CDD918BEC235"
+  - "https://files.dc-unlocker.com/share.html?v=share/18B15B9D02C945A79B1967234CECB423"
+android_sdk_platform_tools:
+  homepage: "https://developer.android.com/tools/releases/platform-tools"
+magisk:
+  homepage: "https://github.com/topjohnwu/Magisk"
+  download: "https://github.com/topjohnwu/Magisk/releases/tag/v27.0"
+  instructions: "https://topjohnwu.github.io/Magisk/install.html"
+split_uapp:
+  homepage: "https://github.com/superr/splituapp"
+huawei_stock_rom:
+  homepage: "https://huaweistockrom.com/honor-play-cor-l29"
+  image_version: "COR-L29_9.1.0.405_C432E1R1P9T8"
+  image_link: "https://firmwaredrive.com/index.php?a=downloads&b=file&id=68535"
+  our_link: "https://mega.nz/file/gUZFWRrJ#LxS324LCRHj86ZzzqXJvBKPn5aZdf9lAZsykIyIoGVU"
+magisk_hide_props_conf:
+  homepage: "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf"
+  download: "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases/download/v6.1.2/MagiskHidePropsConf-v6.1.2.zip"
+build_props:
+  - "https://gist.github.com/chenshaoju/ec18f2081cb12f85752f4c8259b54b9a?permalink_comment_id=4148937"
+  - "https://xdaforums.com/t/module-v17-x-volte-vowifi-enabler-2018-09-20.3649613/"
+  - "https://xdaforums.com/t/guide-enabling-volte-vowifi-v2.4028073/"
+  - "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/blob/main/common/system.prop"
+adaway:
+  homepage: "https://github.com/AdAway/AdAway"
+  link: "https://github.com/AdAway/AdAway/releases/download/v6.1.3/AdAway-6.1.3-20240706.apk"

@@ -7,3 +7,6 @@ url: https://just-the-docs.github.io
 exclude: 
   - .scripts/
   - .gems/
+
+aux_links:
+  Github: https://github.com/williamyang98/honor_play_root_volte_fix

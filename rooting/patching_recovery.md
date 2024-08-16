@@ -34,7 +34,9 @@ The ```recovery_ramdisk_magisk.img``` image is the patched output from the follo
 The following is based on the [following instructions]({{ site.data.links.magisk.instructions }}) from [Magisk]({{ site.data.links.magisk.homepage }}).
 
 ![Install]({{ "/assets/images/magisk_install.png" | relative_url }})
-![Patch]({{ "/assets/images/magisk_patch.png" | relative_url }})
+
+![Patch]({{ "/assets/images/magisk_patch_0.jpg" | relative_url }})
+![Patch]({{ "/assets/images/magisk_patch_1.jpg" | relative_url }})
 
 1. Copy the ```recovery_ramdisk.img``` to your phone.
   - Use USB cable and copy over to internal storage.

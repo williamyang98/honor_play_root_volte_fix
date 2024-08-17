@@ -36,6 +36,7 @@ The above steps are based on the [provided tutorial]({{ site.data.links.hcu_unlo
 
 ### My results with CPU loaders
 - Honor Play COR-L29 9.1.0.399 (C636E3R1P12T8)
+- You might get different results to me.
 
 | Name | Working |
 | --- | --- |
@@ -45,7 +46,7 @@ The above steps are based on the [provided tutorial]({{ site.data.links.hcu_unlo
 | Kirin 970 8.1 V4 | No |
 | Kirin 970 8.1 V6 | No |
 
-You might get different results to me.
+[Link (Backup)]({{ "/assets/files/hcu_kirin_970_bootloaders.zip" | relative_url }})
 
 ## 5. Read bootloader unlock code
 1. Hopefully if it there is a working CPU loader you will get a success message on the right panel.

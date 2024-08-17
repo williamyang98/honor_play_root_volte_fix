@@ -23,6 +23,7 @@ huawei_stock_rom:
   image_version: "COR-L29_9.1.0.405_C432E1R1P9T8"
   image_link: "https://firmwaredrive.com/index.php?a=downloads&b=file&id=68535"
   our_link: "https://mega.nz/file/gUZFWRrJ#LxS324LCRHj86ZzzqXJvBKPn5aZdf9lAZsykIyIoGVU"
+  our_cloned_link: "https://mega.nz/file/RYADwSbZ#NJKA1cV7Zr7Ci4xIwgXtTu2wfXrHzQhhzeDvnzOVanE"
 magisk_hide_props_conf:
   homepage: "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf"
   download: "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases/download/v6.1.2/MagiskHidePropsConf-v6.1.2.zip"
@@ -41,3 +42,8 @@ pixel_volte_patch:
   link: "https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md"
 shizuku:
   link: "https://shizuku.rikka.app/"
+magisk_volte_wifi_calling_enabler:
+  link: "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler"
+twrp_cornell:
+  link: "https://xdaforums.com/t/recovery-honor-play-cornell-unofficial-twrp-3-2-2-r23-24-11-2018.3871290/"
+
